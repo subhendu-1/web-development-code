@@ -1,0 +1,17 @@
+/* -----------------------------------------tag Selector------------------------------------------------------ */
+h1{
+    background-color: red;
+    font-size: 50px;
+}
+/* img{
+    background-color: aquamarine;
+} */
+        /* -------------------------------------------class selector------------------------------------------------------------- */
+   /* class selectors write down with a "." befor class name */
+.apple{
+    background-color: black;
+
+}
+.LG{
+    background-color: blue;
+}
